@@ -34,6 +34,11 @@ This project addresses the need for a consolidated dashboard that allows stakeho
  - Finance Department: To monitor income, payments, and pricing distribution
 
  - Customer Insights Analysts: To identify customer trends and retention opportunities
+## Metadata
+ - File Extension: .xlsx
+ - Number of Rows: 1001
+ - Number of Fields: 17
+   
  ## Key Insights
  - Branch C recorded the highest sales contribution (34.24%), slightly outperforming Branch A and B.
 
